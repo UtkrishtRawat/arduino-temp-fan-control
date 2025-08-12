@@ -36,10 +36,7 @@ This is ideal for **IoT, home automation, and embedded systems** portfolios.
 3. Open **Serial Monitor** at `9600 baud`.
 4. Observe fan and LEDs respond to temperature changes.
 
----
 
-## 📷 Example Output
-*(Add circuit diagram or project photo here)*
 
 ---
 
